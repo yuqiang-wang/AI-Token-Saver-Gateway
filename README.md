@@ -1,5 +1,9 @@
 # AI-Token-Saver-Gateway (v2.1)
 
+> **已停止维护 / No longer maintained** (2026-11-24)
+> 本项目已停止开发和支持，代码与文档仅供历史参考。
+> Development and support have ended. The code and documentation are kept for reference.
+
 补齐“最后一公里”：真实 LLM 调用、Redis 多实例限流、一键部署和业务 benchmark 接入。
 
 ## 重点
